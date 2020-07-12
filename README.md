@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 💬 Ask me about Front End Web Development, UX and UI design and Project / Program Management
+
+- 📫 How to reach me: ross@rossolson.com is the best way, but you can also see my Twitter account [@rossolson](http://twitter.com/rossolson) for occasional bon mots.
+
+Cheers!
+
+...Ross...
+
