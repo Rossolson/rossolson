@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Front End Web Development, UX and UI design and Project / Program Management
 
-- 📫 How to reach me: ross@rossolson.com is the best way, but you can also see my Twitter account [@rossolson](http://twitter.com/rossolson) for occasional bon mots.
+- 📫 How to reach me: ross@rossolson.com is the best way, but you can also see my Bluesky account [@rossolson.com](https://bsky.app/profile/rossolson.com) for occasional bon mots.
 
 Cheers!
 
